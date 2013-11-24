@@ -1,18 +1,18 @@
 ---
 layout: page
 title: "Links"
-description: "Links"
+description: ""
+group: navigation
 ---
 {% include JB/setup %}
+
+
 
 ###朋友###
 
 
  
 ###技术###
-
-#### 个人博客 ####
-
 [酷壳 – CoolShell.cn](http://coolshell.cn/)
 
  
@@ -38,5 +38,6 @@ description: "Links"
 [Color Hex Home](http://www.color-hex.com/color/cccdcd)
 
 [Javascript code prettifier](http://google-code-prettify.googlecode.com/svn/trunk/README.html)
+
 
 

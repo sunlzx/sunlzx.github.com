@@ -78,7 +78,7 @@ http://jekyllbootstrap.com/
 
 	怎么定制导航栏？
 
-	怎么定制右侧边栏显示？
+	怎么定制右侧边栏显示？这样的效果：<http://xdutaotao.github.io/blog/2012/09/23/jekyll-and-liquid-related-knowledage/>
 
 
 

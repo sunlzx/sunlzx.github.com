@@ -72,9 +72,10 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  # links_path: /links.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  about_path: /pages/about.html
+  links_path: /pages/links.html
 
 
   # Settings for comments helper
