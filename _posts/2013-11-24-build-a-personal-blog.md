@@ -70,7 +70,17 @@ http://jekyllbootstrap.com/
 
 
 ## Jekyll的中的代码高亮 ##
+
+<http://webfrogs.me/2012/12/20/use-jekyll/>
+
+<http://dannyli.net/notes/pygments-config/>
+
 <http://yansu.org/2013/04/22/highlight-of-jekyll.html>
+
+主题twitter可能导致代码高亮失效，换成the-program主题代码高亮是正常的
+
+## Sublime Text2 Markdown语法高亮
+
 
 
 

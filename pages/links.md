@@ -15,6 +15,13 @@ group: navigation
 ###技术###
 [酷壳 – CoolShell.cn](http://coolshell.cn/)
 
+
+[BlueDavy之技术blog](http://bluedavy.me/)
+
+[结构之法 算法之道](http://blog.csdn.net/v_july_v)
+
+[董的博客](http://dongxicheng.org/)
+
  
 
  
