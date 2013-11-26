@@ -34,6 +34,8 @@ group: navigation
 
 ###其他###
 
+[推酷](http://www.tuicool.com/)
+
 [http://lidashuang.sinaapp.com/tag/blog/](http://lidashuang.sinaapp.com/tag/blog/)
 
 ###创建博客###
