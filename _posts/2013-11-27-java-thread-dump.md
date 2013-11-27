@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "java thread dump"
+title: "Java Thread Dump"
 description: ""
-category: ""
-tags: []
+category: "java"
+tags: [java, thread dump]
 ---
 {% include JB/setup %}
 
