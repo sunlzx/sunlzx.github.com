@@ -18,12 +18,15 @@ group: navigation
 
 [huangz1990(黄健宏) blog](http://www.huangz.me/en/latest/)
 
+[系统技术非业余研究(淘宝褚霸)](http://blog.yufeng.info/)
+
 [BlueDavy之技术blog](http://bluedavy.me/)
 
 [结构之法 算法之道](http://blog.csdn.net/v_july_v)
 
 [董的博客](http://dongxicheng.org/)
 
+[Withiter's Cross(To cover or extend over an area.)](http://blog.csdn.net/withiter)
  
 
 ### 技术沙龙
