@@ -13,10 +13,10 @@ group: navigation
 
  
 ###技术###
+
 [酷壳 – CoolShell.cn](http://coolshell.cn/)
 
-[]
-
+[huangz1990(黄健宏) blog](http://www.huangz.me/en/latest/)
 
 [BlueDavy之技术blog](http://bluedavy.me/)
 
@@ -30,18 +30,16 @@ group: navigation
 
 [大讲堂](http://djt.qq.com/)
 
-[]()
- 
-
- 
-
- 
-
-
 
 ###其他###
 
 [Startup News](http://news.dbanotes.net/)
+
+[传送门](http://chuansongme.com/)
+
+[Hacker News](http://news.ycombinator.com)
+
+[programming reddit](http://www.reddit.com/r/programming)
 
 [并发编程网](http://ifeve.com/)
 
@@ -54,6 +52,21 @@ group: navigation
 [推酷](http://www.tuicool.com/)
 
 [http://lidashuang.sinaapp.com/tag/blog/](http://lidashuang.sinaapp.com/tag/blog/)
+
+### taobao
+
+[官方博客 - 阿里数据平台](http://www.alidata.org/archives)
+
+### book
+
+[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN.git)
+
+[free-programming-books](https://github.com/vhf/free-programming-books)
+
+[拼吾爱程序人生 - 最新编程资源的分享下载站](http://www.pin5i.com/)
+
+[皮皮书屋](http://www.ppurl.com/login/)
+
 
 
 ### 开发相关
@@ -78,5 +91,5 @@ group: navigation
 
 ### 招聘网站
 
-[拉勾] http://www.lagou.com/
+[拉勾](http://www.lagou.com/)
 
